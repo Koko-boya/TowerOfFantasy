@@ -1,6 +1,6 @@
 # Tower Of Fantasy
 
-**Tower of Fantasy_** is an immersive open-world mobile game developed by Hotta Studio. The game will be released in China. A global release plan has not been
+**Tower of Fantasy_** is an immersive open-world mobile game developed by Hotta Studio. The game will be released in China. A global release plan has not been announced yet
 
 *This Repository is For TowerOfFantasy / 幻塔 Data - Public Download Link & AeS Key*
 
