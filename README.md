@@ -11,6 +11,6 @@
 
 | Version | Download Link | AES Key |
 | :---         |     :---:      |     :---:    |
-| V1.0   | https://htydhd.wmupd.com/htydhd/client/HTMobile_SETUP_1.0.4_20210409.zip     | https://htydhd.wmupd.com/htydhd/client/HTMobile_SETUP_1.2.0_20210715.zip |
-| V1.2   | https://htydhd.wmupd.com/htydhd/client/HTMobile_SETUP_1.2.0_20210715.zip     | Soon    |
+| V1.0   | https://htydhd.wmupd.com/htydhd/client/HTMobile_SETUP_1.0.4_20210409.zip     | 0xA16F419DD3E55493653AC5CDBA71963296E46792E54900C05A1BA5B50C3BC2B0 |
+| V1.2   | https://htydhd.wmupd.com/htydhd/client/HTMobile_SETUP_1.2.0_20210715.zip     | Soon |
 | V1.3.39660   | https://htydhd.wmupd.com/htydhd/client/ARC_HT_1.3.0_20211104.zip     | 0xABDB1F9379A16323851EAB1868B6D9125EDEB37B64F29BB36918D694DDE34A8D |
