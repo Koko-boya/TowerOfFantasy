@@ -21,6 +21,6 @@
 
 | Version | Download Link | AES Key |
 | :---         |     :---:      |     :---:    |
-| V1.0   | https://fantasy-cdn.toweroffantasy-global.com/fantasy-test/httxhd/client/Arc_HT_TX_1.0.48241_14.zip    |  |
+| V1.0   | https://fantasy-cdn.toweroffantasy-global.com/fantasy-test/httxhd/client/Arc_HT_TX_1.0.48241_14.zip    | 0xABDB1F9379A16323851EAB1868B6D9125EDEB37B64F29BB36918D694DDE34A8D  |
 
 
