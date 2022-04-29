@@ -16,6 +16,7 @@
 | V1.3   | https://htydhd.wmupd.com/htydhd/client/ARC_HT_1.3.0_20211104.zip     | 0xABDB1F9379A16323851EAB1868B6D9125EDEB37B64F29BB36918D694DDE34A8D |
 | V1.4   | https://htydhd.wmupd.com/htydhd/client/Arc_HT_1.4.41398_33.zip     | 0xABDB1F9379A16323851EAB1868B6D9125EDEB37B64F29BB36918D694DDE34A8D |
 | CBT - V2.0   | https://htydhd.wmupd.com/htydalphahd/client/Arc_HT_advance_2.0.48482_36.zip     | 0x6E6B325B02B821BD46AF6B62B1E929DC89957DC6F8AA78210D5316798B7508F8 |
+| V2.0   | https://htydhd.wmupd.com/htydhd/client/Arc_HT_2.0.48678_84.zip     |  |
 
 **CBT Global Version -**
 
