@@ -30,7 +30,7 @@ Current Version Check: [2.0.49155](https://htydhd.wmupd.com/htydhd/client/Versio
 ###### Unreal Engine: 4.26
 - For CN V1.0 & CBT Global V1.0 ([Umodel Source](https://www.gildor.org/en/projects/umodel)) - https://www.gildor.org/down/47/umodel/umodel_win32.zip  
 - For CN V1.2, 1.3, 1.4 ([Special Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7112.msg39240.html#msg39240)) - https://drive.google.com/file/d/13ePyTjk7_8gmUz_IVbTtuw3Q8Kxg1pWl/view 
-- For CN CBT & Release V2.0 ([V2.0 Umodel Build Source](https://drive.google.com/file/d/1Y3S_Iy4HfoAGm8yeWksMl8HhH4m4auw5/view?usp=sharing)) - https://drive.google.com/file/d/1Y3S_Iy4HfoAGm8yeWksMl8HhH4m4auw5/view 
+- For CN CBT & Release V2.0 ([V2.0 Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7906.0.html)) - https://drive.google.com/file/d/1Y3S_Iy4HfoAGm8yeWksMl8HhH4m4auw5/view 
 
 #### IMPORTANT NOTE:
 - When using **Special Umodel Build** Remember to use "Override game Detection = Unreal Engine 4 & Unreal Engine 4.26"
