@@ -4,7 +4,7 @@
 
 *This Repository is For TowerOfFantasy / 幻塔 Data - Public Download Link & AeS Key*
 
-Current Version Check: [2.0.49808](https://htydhd.wmupd.com/htydhd/client/Version.txt)
+Current Version Check: [2.0.50375](https://htydhd.wmupd.com/htydhd/client/Version.txt)
 
 
 # Download Link
