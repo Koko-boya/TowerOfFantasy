@@ -4,7 +4,8 @@
 
 *This Repository is For TowerOfFantasy / 幻塔 Data - Public Download Link & AeS Key*
 
-Current Version Check: [2.0.51909](https://htydhd.wmupd.com/htydhd/client/Version.txt)
+CN Current Version Check: [2.0.51909](https://htydhd.wmupd.com/htydhd/client/Version.txt)
+Global Version: ?
 
 
 # Download Link
@@ -25,12 +26,13 @@ Current Version Check: [2.0.51909](https://htydhd.wmupd.com/htydhd/client/Versio
 | Version | Download Link | AES Key |
 | :---         |     :---:      |     :---:    |
 | V1.0   | https://fantasy-cdn.toweroffantasy-global.com/fantasy-test/httxhd/client/Arc_HT_TX_1.0.48241_14.zip    | 0xABDB1F9379A16323851EAB1868B6D9125EDEB37B64F29BB36918D694DDE34A8D  |
+| V0.0.0.14 / TowerOfFantasy_release_13  | <em>Introduced ChunkDownloader</em>    | 0x6E6B325B02B821BD46AF6B62B1E929DC89957DC6F8AA78210D5316798B7508F8  |
 
 # Tools for Extracting
 ###### Unreal Engine: 4.26
 - For CN V1.0 & CBT Global V1.0 ([Umodel Source](https://www.gildor.org/en/projects/umodel)) - https://www.gildor.org/down/47/umodel/umodel_win32.zip  
 - For CN V1.2, 1.3, 1.4 ([Special Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7112.msg39240.html#msg39240)) - https://drive.google.com/file/d/13ePyTjk7_8gmUz_IVbTtuw3Q8Kxg1pWl/view 
-- For CN CBT & Release V2.0 ([V2.0 Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7906.0.html)) - https://drive.google.com/file/d/1Y3S_Iy4HfoAGm8yeWksMl8HhH4m4auw5/view 
+- For CN CBT & Release V2.0 & Global V0.0.0.14 ([V2.0 Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7906.0.html)) - https://drive.google.com/file/d/1-ZKC6EFjXH8J-KJ7qykan4J63n7DRSwE/view
 
 #### IMPORTANT NOTE:
 - When using **Special Umodel Build** Remember to use "Override game Detection = Unreal Engine 4 & Unreal Engine 4.26"
