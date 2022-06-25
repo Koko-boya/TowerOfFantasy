@@ -26,7 +26,7 @@ Global Version: ?
 | Version | Download Link | AES Key |
 | :---         |     :---:      |     :---:    |
 | V1.0   | https://fantasy-cdn.toweroffantasy-global.com/fantasy-test/httxhd/client/Arc_HT_TX_1.0.48241_14.zip    | 0xABDB1F9379A16323851EAB1868B6D9125EDEB37B64F29BB36918D694DDE34A8D  |
-| V0.0.0.14 / TowerOfFantasy_release_13  | <em>Introduced ChunkDownloader</em>    | 0x6E6B325B02B821BD46AF6B62B1E929DC89957DC6F8AA78210D5316798B7508F8  |
+| V0.0.0.15  | <em>Introduced ChunkDownloader</em>    | 0x6E6B325B02B821BD46AF6B62B1E929DC89957DC6F8AA78210D5316798B7508F8  |
 
 # Tools for Extracting
 ###### Unreal Engine: 4.26
