@@ -27,7 +27,7 @@
 ###### Unreal Engine: 4.26
 - For CN V1.0 & CBT Global V1.0 ([Umodel Source](https://www.gildor.org/en/projects/umodel)) - https://www.gildor.org/down/47/umodel/umodel_win32.zip  
 - For CN V1.2, 1.3, 1.4 ([Custom Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7112.msg39240.html#msg39240)) - https://drive.google.com/file/d/1IOf6POlmG4l3aOWZQuBZFjuoEf-tMxZF/view
-- For CN CBT & Release V2.0 & Global V1.0.0 ([Custom Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7906.0.html)) - https://drive.google.com/file/d/1OOxZ_soiS5v58yQ0o-KSNPtpdSw24RWa/view
+- For CN CBT & Release V2.0 & Global V1.0.0 ([Custom Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7906.0.html)) - https://drive.google.com/file/d/1u-0tT4blSKMCzznDh_fgj_QY7BAvae4A/view
 
 #### IMPORTANT NOTE:
 - When using **Special Umodel Build** Remember to use "Override game Detection = Unreal Engine 4 & Unreal Engine 4.26"
