@@ -15,7 +15,7 @@
 | V1.4   | https://htydhd.wmupd.com/htydhd/client/Arc_HT_1.4.41398_33.zip     | 0xABDB1F9379A16323851EAB1868B6D9125EDEB37B64F29BB36918D694DDE34A8D |
 | CBT - V2.0   | https://htydhd.wmupd.com/htydalphahd/client/Arc_HT_advance_2.0.48482_36.zip     | 0x6E6B325B02B821BD46AF6B62B1E929DC89957DC6F8AA78210D5316798B7508F8 |
 | V2.0   | https://htydhd.wmupd.com/htydhd/client/Arc_HT_2.0.48678_84.zip     | 0x6E6B325B02B821BD46AF6B62B1E929DC89957DC6F8AA78210D5316798B7508F8 |
-| V2.1   | https://htydhd.wmupd.com/htydhd/client/Arc_HT_2.1.53787_20220707.zip     |  |
+| V2.1   | https://htydhd.wmupd.com/htydhd/client/Arc_HT_2.1.53787_20220707.zip     | 0x6E6B325B02B821BD46AF6B62B1E929DC89957DC6F8AA78210D5316798B7508F8 |
 
 **CBT Global Version -**
 
@@ -28,7 +28,7 @@
 ###### Unreal Engine: 4.26
 - For CN V1.0 & CBT Global V1.0 ([Umodel Source](https://www.gildor.org/en/projects/umodel)) - https://www.gildor.org/down/47/umodel/umodel_win32.zip  
 - For CN V1.2, 1.3, 1.4 ([Custom Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7112.msg39240.html#msg39240)) - https://drive.google.com/file/d/1IOf6POlmG4l3aOWZQuBZFjuoEf-tMxZF/view
-- For CN CBT & Release V2.0 & Global V1.0.0 ([Custom Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7906.0.html)) - https://drive.google.com/file/d/1u-0tT4blSKMCzznDh_fgj_QY7BAvae4A/view
+- For CN CBT & Release V2.0 & Global V1.0.0 ([Custom Umodel Build Source](https://www.gildor.org/smf/index.php/topic,7906.0.html)) - https://drive.google.com/file/d/1skG6tfr41b1f1Ycvp8CXDn038K0Wgif4/view
 
 #### IMPORTANT NOTE:
 - When using **Special Umodel Build** Remember to use "Override game Detection = Unreal Engine 4 & Unreal Engine 4.26"
